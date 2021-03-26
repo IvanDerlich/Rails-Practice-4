@@ -2,7 +2,7 @@ require 'database_cleaner'
 require 'shoulda/matchers'
 require 'factory_bot_rails'
 require 'action_controller'
-require 'faker'
+# require 'faker'
 
 # require File.expand_path("../../config/environment", __FILE__)
 
